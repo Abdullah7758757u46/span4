@@ -674,7 +674,6 @@ client.on('message',async message => {
     .addField('- لون الرتبة',role.hexColor,true)
     .addField('- عدد الاعضاء الذي لديهم نفس الرتبة',role.members.size,true)
     .addField('- مركز الرتبة بين كل الرتب',role.position,true)
-    .addField('-
 
 
-client.login('NTI5MDYwMTYwMjc1MjE4NDMy.Dwrqnw.2gjAxb2AasqApUSlsP1zR-f2dVc');
+client.login('NTI5MDYwMTYwMjc1MjE4NDMy.DwsvGQ.qPRf_Q8TcjodJJDBJyjWkeVbeKM');
