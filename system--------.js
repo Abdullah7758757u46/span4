@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const fs = require('fs');
 const client = new Discord.Client();
-const prefix = "T#"
+const prefix = "="
 
 
 
@@ -327,4 +327,4 @@ client.on('message', message => {
           
        })
 
-client.login("token")
+client.login("NTI5MDYwMTYwMjc1MjE4NDMy.DwsvGQ.qPRf_Q8TcjodJJDBJyjWkeVbeKM")
